@@ -1,0 +1,30 @@
+name:"Saturn-Scheme-Pack",
+displayName:"Saturn Scheme Pack",
+subtitle:"Schematics pack, with exclusivity among the rest.",
+author: "[#F0000] Mellory",
+description: "
+ Ru
+Saturn Scheme Pack - мод канала MindaRu. Он находится в активной стадии разработки и выпуска,если вы заинтересованы в развитие мода, то напишите создателю @mindaru в комментариях о том что хотите помочь моду!
+
+В схеме используются схемы, которые не пользуются популярностью но лучше многих.
+
+Отдельная благодарность за помощь: Snejinka, diff_gen, foxit.
+
+
+En
+Saturn Scheme Pack - mod channel MindaRu. It is in the active stage of development and release, if you are interested in the development of the mod, then write to the creator @mindaru in the comments about what you want help the mod!
+
+The scheme uses schemes that are not popular but are better than many.
+
+Special thanks for help: Snejinka, diff_gen, foxit.
+
+Ua
+Saturn Scheme Pack – мод каналу MindaRu. Він знаходиться в активній стадії розробки та випуску, якщо ви зацікавлені в розвитку моди, то напишіть автору @mindaru в коментарях про те, що хочете допомогти моду!
+
+У схемі використовуються схеми, які не користуються популярністю але краще за багатьох.
+
+Окрема подяка за допомогу: Snejinka, diff_gen, foxit.
+",
+version: 1.0,
+hidden: true,
+minGameVersion: 145
